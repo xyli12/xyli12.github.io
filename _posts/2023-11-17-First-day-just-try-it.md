@@ -3,9 +3,9 @@ layout: post
 title: First Day, Just Try it!
 subtitle: Maybe I want to try something new.
 author: xyli
-categories: just for you
+categories: feeling
 banner:
-  <!--video: https://www.bilibili.com/video/BV1A14y1y7BL--!>
+  video: https://www.bilibili.com/video/BV1A14y1y7BL
   loop: true
   volume: 0.8
   start_at: 8.5
