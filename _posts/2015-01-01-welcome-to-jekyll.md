@@ -1,29 +1,30 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: First Day, Just Try it!
+subtitle: Maybe I want to try something new.
+author: xyli
+categories: just for you
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  <!--video: https://www.bilibili.com/video/BV1A14y1y7BL--!>
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: https://tse4-mm.cn.bing.net/th/id/OIP-C.DBFJb2LpApCIyEmMIGqvfAHaEK
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: just for fun and hope to insist
 top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Actually, Today is the first day of my blog. I signed up this blog to record something about my work and life. In the coming period, I hope I can write something everyday about meeting minutes or just English dictation. but my english is so poor that maybe technology sharing will be presented in mandarin. hope my spoken and listening english improve dramatically.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Even though I feel tried and unhappy after personnel adjustments, I still want to motivate myslef. Everyone should be responsible for their own choices, and so do I. Maybe I feel bule just because the sky is not so bule.
+
 
 ## section 1
 
